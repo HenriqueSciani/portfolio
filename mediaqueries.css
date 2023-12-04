@@ -11,6 +11,12 @@
     height: fit-content;
   }
 }
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+  #experience,
+  #projects {
+    margin-bottom: 8rem; 
+  }
+}
 
 @media screen and (max-width: 1200px) {
   #desktop-nav {
